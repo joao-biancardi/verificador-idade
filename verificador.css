@@ -1,0 +1,43 @@
+body {
+    background: rgb(70, 142, 236);
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    color: white;
+    background: rgb(70, 142, 236);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+button {
+    border-radius: 25px;
+    margin: 10px;
+    padding: 10px;
+    background: none;
+    outline: none;
+    color: white;
+    border: solid 1px black;
+    cursor: pointer;
+    width: 150px;
+}
+
+button:hover {
+    color: white;
+    border: solid 1px white;
+}
